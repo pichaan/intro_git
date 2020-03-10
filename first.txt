@@ -1,2 +1,3 @@
 gitの練習をしていきます
 基本的な文法を学びます。
+git add ,git commitの勉強
